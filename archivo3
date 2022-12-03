@@ -1,0 +1,3 @@
+anunciar cambio y modificacion: git commit -m "x"
+eliminar archivo : rm x
+restaurar archivo eliminado: git restore --starged x
