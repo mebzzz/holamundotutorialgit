@@ -1,0 +1,3 @@
+agregar archivos en general: git add .(x)
+agregar archivo especifico: git add *(x)
+agregar todos los archivos: git add *.* NO RECOMENDADO HACER 
