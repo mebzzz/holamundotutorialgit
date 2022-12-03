@@ -1,2 +1,2 @@
-git commit -m "x"
-alo
+anunciar cambio y modificacion: git commit -m "x"
+eliminar archivo : rm x
