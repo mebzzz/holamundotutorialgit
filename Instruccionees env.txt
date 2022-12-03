@@ -1,0 +1,14 @@
+ignorar un archivo: crear archivo con nombre .gitignore y escribir ahi y guardar
+comprobar situacion actual: git status -s
+revisar cambios especificos: git diff
+git diff --stage (ver que cambio estan en comando)
+git log (historial completo)
+git log --oneline (historial completo con codigo)
+restaurar archivo: git restore --staged x
+mostrar contenido de archivo: cat x
+cambiar de rama: git checkout x
+ver ramas: git branch
+traer cambios de rama a -> rama b : git merge x
+vincular con github: git remote add origin x
+crear rama en git hub: git push -u origin x(nombre rama)
+poner contraseña generada por token: git config user.password x
