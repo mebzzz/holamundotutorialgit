@@ -1,2 +1,7 @@
 ignorar un archivo: crear archivo con nombre .gitignore y escribir ahi y guardar
 comprobar situacion actual: git status -s
+revisar cambios especificos: git diff
+git diff --stage (ver que cambio estan en comando)
+git log (historial completo)
+git log --oneline (historial completo con codigo)
+restaurar archivo: git restore --staged x
